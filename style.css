@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: rgb(7, 70, 70);
+}
+.c{
+    background:
+    linear-gradient(rgb(179, 188, 191),rgb(114, 177, 200));
+    font-size: 30PX;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+.d{
+    background: linear-gradient(rgba(113, 132, 123, 0.395), rgba(0, 255, 213, 0.241));
+    border-radius: 5px;
+    text-align: center;
+    font-style: oblique;    
+}
+.e{
+    background: linear-gradient( rgba(0, 255, 213, 0.241),rgba(113, 132, 123, 0.395));
+    border-radius: 5px;
+    text-align: center;
+    font-style: oblique;    
+}
+marquee{
+    color: rgb(255, 217, 0);
+    background:repeating-linear-gradient(rgb(166, 166, 166) , rgb(0, 0, 0));
+    border-radius: 9px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.ach{
+    text-align: center;
+    background: radial-gradient(rgb(124, 249, 220), rgb(0, 166, 255));
+    border-radius:30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: larger;
+}
+.f{
+    color:rgb(30, 0, 255) ;
+}
